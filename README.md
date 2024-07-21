@@ -50,7 +50,7 @@ Each number represents a tile on the map, and the map is defined in a comma-sepa
 
 ## Controls
 
-- **W/A/S/D**: Move up/left/sown/right
+- **W/A/S/D**: Move up/left/down/right
 - **Mouse**: Aim
 - **Left Click**: Shoot
 
