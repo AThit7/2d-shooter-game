@@ -55,4 +55,4 @@ Each number represents a tile on the map, and the map is defined in a comma-sepa
 - **Left Click**: Shoot
 
 ## Gameplay
-https://raw.githubusercontent.com/AThit7/2d-shooter-game/main/readme-assets/gameplay.mp4
+https://github.com/user-attachments/assets/63b53f6a-0519-437a-983b-d9be53241c84
